@@ -14,8 +14,8 @@ final class Canais {
                     "https://moodle.ufsc.br/", "com.moodle.moodlemobile"),
             new Canal("RU", "Cardápio, saldo e passes (app UFSC)",
                     "https://app.ufsc.br/"),
-            new Canal("Biblioteca", "Acervo, renovação e serviços",
-                    "https://portal.bu.ufsc.br/"),
+            new Canal("Biblioteca", "Catálogo online (Pergamum)",
+                    "https://pergamum.ufsc.br/"),
             new Canal("Notícias", "Comunicados e reportagens da UFSC",
                     "https://noticias.ufsc.br/")
     );
