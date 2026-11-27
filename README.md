@@ -2,8 +2,9 @@
 
 App Android com os canais da UFSC mais usados por estudantes: CAGR, Moodle,
 RU, Biblioteca e Notícias.
-Não tem vínculo com a universidade. Os links abrem no navegador ou no app da
-rede social; o app não pede nem armazena senhas.
+Não tem vínculo com a universidade. Os sites abrem dentro do app (WebView),
+com um botão para abrir no navegador. O app não injeta código nas páginas nem
+lê o que é digitado. Links fora de ufsc.br abrem no navegador.
 
 ## Gerar o APK no Android Studio
 1. Extraia o projeto e use **File > Open** na pasta `canais-ufsc`.

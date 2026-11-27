@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Canais UFSC</string>
-    <string name="aviso">App não oficial. Os links abrem os sites da universidade.</string>
+    <string name="aviso">App não oficial. Mostra os sites da universidade.</string>
     <string name="sem_navegador">Nenhum app disponível para abrir o link.</string>
+    <string name="inicio">‹ Início</string>
+    <string name="abrir_navegador">Abrir no navegador</string>
+    <string name="erro_carregar">A página não carregou. Tente “Abrir no navegador”.</string>
+    <string name="erro_baixar">Não foi possível baixar. Tente “Abrir no navegador”.</string>
+    <string name="baixando">Download iniciado</string>
+    <string name="sem_arquivos">Nenhum app disponível para escolher arquivos.</string>
 </resources>

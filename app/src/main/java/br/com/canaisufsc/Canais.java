@@ -10,8 +10,8 @@ final class Canais {
     static final List<Canal> TODOS = Arrays.asList(
             new Canal("CAGR", "Matrícula, histórico e notas",
                     "https://cagr.sistemas.ufsc.br/"),
-            new Canal("Moodle", "Abre o app. No 1º acesso, use moodle.ufsc.br",
-                    "https://moodle.ufsc.br/", "com.moodle.moodlemobile"),
+            new Canal("Moodle", "Aulas, materiais e atividades",
+                    "https://moodle.ufsc.br/"),
             new Canal("RU", "Cardápio, saldo e passes (app UFSC)",
                     "https://app.ufsc.br/"),
             new Canal("Biblioteca", "Catálogo online (Pergamum)",
