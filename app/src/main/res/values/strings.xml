@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Canais UFSC</string>
+    <string name="aviso">App não oficial. Os links abrem os sites da universidade.</string>
+    <string name="sem_navegador">Nenhum app disponível para abrir o link.</string>
+</resources>
